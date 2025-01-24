@@ -1,6 +1,6 @@
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://camo.githubusercontent.com/15857bd385b12298e036391e6b9644e481eb0903f46311126cb5f571df2b3686/68747470733a2f2f77686f736172676879612e6e65746c6966792e6170702f636f6e74656e742f67697068792e676966" width="320">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://stylishthemes.github.io/GitHub-Dark/images/octocat-spinner-smil.min.svg" width="50"> A little more about me...  
 
 ```js
 import Desenvolvedor from "Mateus Vieira";
@@ -30,7 +30,7 @@ class SobreMim extends Desenvolvedor {
 </table><br/>
 
 #
-## O que estou aprendendo:  <img src="https://github.com/Macionil-San/Macionil-San/blob/main/b2605902adc57f59500e027fa17adbad.gif" width="130">
+## O que estou aprendendo:  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430">
 
 <div align="center" style="display: inline_block"><br/>
     <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
