@@ -33,10 +33,7 @@ class SobreMim extends Desenvolvedor {
 ## O que estou aprendendo:  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="430">
 
 <div align="center" style="display: inline_block"><br/>
-    <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-    <img align="center" alt="" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+      <img align="center" alt="" src="https://midias.inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1-1024x573.png"  width ="105px"/>
 </div>
 
 <br/>
