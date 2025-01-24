@@ -34,6 +34,7 @@ class SobreMim extends Desenvolvedor {
 
 <div align="center" style="display: inline_block"><br/>
       <img align="center" alt="" src="https://midias.inforchannel.com.br/wp-content/uploads/2021/03/e2d2f80e-java-logo-1-1024x573.png"  width ="105px"/>
+  <img align="center" alt = "" src = "https://camo.githubusercontent.com/b0fb9ad6573ab51d6f22e6fcee7089903fc245c8ef5721219e061a223477e0ad/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749542d4534344333303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"/>
 </div>
 
 <br/>
