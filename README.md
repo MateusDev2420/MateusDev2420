@@ -11,7 +11,7 @@
 ## 👨‍💻 Desenvolvedor em Formação
 
 🎓 Técnico em Desenvolvimento de Sistemas (3/4) – **SENAI Vila Mariana**  
-🚇 Aprendiz no **Metrô de São Paulo**  
+🚇 Aprendiz - **Metrô de São Paulo**  
 🏆 Competidor **São Paulo Skills – Modalidade #08 (Desenvolvimento de Aplicativos Móveis)**  
 💡 Foco: **Back-end** e **Mobile Development**
 
@@ -19,7 +19,7 @@
 
 ## ✨ Sobre mim
 
-Sou aluno do **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAI Vila Mariana**, onde desenvolvo uma base avançada em **Java** e **Spring Boot**, atuando também como **aprendiz no Metrô de São Paulo**.
+Sou aluno do **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAI Vila Mariana**, onde desenvolvo uma base avançada em **Java** e **Spring Boot**.
 
 Tenho foco profissional em **back-end**, estrutura de dados e APIs REST.  
 Paralelamente, me desenvolvo na área de **mobile**, criando aplicações multiplataforma com **Flutter** e Android Native com **Kotlin**.
