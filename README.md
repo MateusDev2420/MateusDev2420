@@ -1,23 +1,23 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4e73df&height=200&section=header&text=Mateus%20Vieira%20Souza&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Back--End-Focus-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mobile-Developer-orange?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SãoPauloSkills-Competidor-red?style=for-the-badge&logo=medal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Back--End-Focus-4e73df?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mobile-Developer-6f42c1?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SãoPauloSkills-Competidor-d63384?style=for-the-badge&logo=medal&logoColor=white"/>
 </p>
 
 ---
 
-## 👨‍💻 Desenvolvedor em Formação
+## 👨‍💻 &nbsp;Desenvolvedor em Formação
 
 🎓 Técnico em Desenvolvimento de Sistemas (3/4) – **SENAI Vila Mariana**  
-🚇 Aprendiz - **Metrô de São Paulo**  
+🚇 Aprendiz – **Metrô de São Paulo**  
 🏆 Competidor **São Paulo Skills – Modalidade #08 (Desenvolvimento de Aplicativos Móveis)**  
 💡 Foco: **Back-end** e **Mobile Development**
 
 ---
 
-## ✨ Sobre mim
+## ✨ &nbsp;Sobre mim
 
 Sou aluno do **Curso Técnico em Desenvolvimento de Sistemas** pelo **SENAI Vila Mariana**, onde desenvolvo uma base avançada em **Java** e **Spring Boot**.
 
@@ -28,7 +28,7 @@ Atualmente, sou **competidor da WorldSkills** na **Modalidade #08 – Desenvolvi
 
 ---
 
-## 🛠️ Tecnologias e Linguagens
+## 🛠️ &nbsp;Tecnologias e Linguagens
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -41,7 +41,7 @@ Atualmente, sou **competidor da WorldSkills** na **Modalidade #08 – Desenvolvi
 
 ---
 
-## 🧰 Ferramentas e Ambientes
+## 🧰 &nbsp;Ferramentas e Ambientes
 
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
@@ -54,14 +54,14 @@ Atualmente, sou **competidor da WorldSkills** na **Modalidade #08 – Desenvolvi
 
 ---
 
-## 🏅 Sobre a Competição
+## 🏅 &nbsp;Sobre a Competição
 
 Estou em preparação para a **São Paulo Skills**, na **modalidade #08 – Desenvolvimento de Aplicativos Móveis**, com foco em excelência técnica, soluções completas e desenvolvimento multiplataforma.  
 Represento com orgulho o **SENAI Roberto Simonsen**, elevando meu nível técnico e profissional com muito treino, foco e propósito.
 
 ---
 
-## 📫 Vamos nos conectar
+## 📫 &nbsp;Vamos nos conectar
 
 Explore meus repositórios, desafios e projetos!  
 Estou sempre em evolução como desenvolvedor, focado em entregar soluções reais com qualidade e clareza.  
@@ -72,3 +72,4 @@ Vamos juntos transformar ideias em sistemas de verdade. 🚀
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MateusDev2420&show_icons=true&theme=tokyonight&hide_title=false&count_private=true" alt="GitHub Stats" />
 </p>
+
